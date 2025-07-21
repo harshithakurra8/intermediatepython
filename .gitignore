@@ -1,16 +1,5 @@
-# Ignore Python cache
+*.env
+*.log
 __pycache__/
 *.pyc
-
-# Ignore node modules
-node_modules/
-
-# Ignore environment files
-.env
-
-# Ignore compiled code
-*.class
-
-# Ignore system files
-.DS_Store
-Thumbs.db
+.vscode/
